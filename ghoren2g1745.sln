@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ghoren2g1745", "..\..\..\Fa
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "52213"
+		SlnRelativePath = "..\..\..\Fall 2016\COMC 1745\ghoren2g1745\"
 	EndProjectSection
 EndProject
 Global
